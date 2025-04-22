@@ -1,0 +1,36 @@
+/* For information on how to create your own theme, please see:
+http://ionicframework.com/docs/theming/ */
+
+:root {
+  /* Colores principales */
+  --ion-color-primary: #4caf50; /* Verde suave */
+  --ion-color-primary-rgb: 76, 175, 80;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #43a047;
+  --ion-color-primary-tint: #66bb6a;
+
+  /* Colores secundarios */
+  --ion-color-secondary: #03a9f4; /* Azul claro */
+  --ion-color-secondary-rgb: 3, 169, 244;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 255, 255, 255;
+  --ion-color-secondary-shade: #039be5;
+  --ion-color-secondary-tint: #29b6f6;
+
+  /* Otros colores */
+  --ion-color-tertiary: #ff9800; /* Naranja suave */
+  --ion-color-success: #8bc34a; /* Verde claro */
+  --ion-color-warning: #ffc107; /* Amarillo cálido */
+  --ion-color-danger: #e57373; /* Rojo suave */
+  --ion-color-dark: #37474f; /* Gris oscuro */
+  --ion-color-medium: #90a4ae; /* Gris medio */
+  --ion-color-light: #e0f7fa; /* Azul muy claro */
+
+  /* Color de fondo */
+  --ion-background-color: #f5f5f5; /* Gris claro */
+
+  /* Color del header */
+  --ion-toolbar-background: #4caf50; /* Verde suave para el encabezado */
+  --ion-toolbar-color: #ffffff; /* Texto blanco para contraste */
+}
